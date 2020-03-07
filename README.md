@@ -53,9 +53,7 @@ Methods | Year |mIoU
 ------------ | -------------|----
 [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
 [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
-
-
-Azad et. all [Proposed Method](.)	  |2020 	| **80.83%**
+[Proposed Method](https://openreview.net/pdf?id=SkMjFKJwG)	  |2020 	| **80.83%**
 
 #### Visual Segmentation result on FSS-1000
 Sample of 1-shot segmentation result on the FSS-1000 dataset 
