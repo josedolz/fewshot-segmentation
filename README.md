@@ -19,6 +19,25 @@ will be update soon
 
 
 
+
+
+
+
+
+
+
+
+
+## Quick Overview
+![Diagram of the proposed method](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure1.png)
+
+### Structure of the Proposed Scale Space encoder for reducing texture bias effect
+![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure2.png)
+
+
+
+
+
 ### Query
 All implementation done by Reza Azad. For any query please contact us for more information.
 
