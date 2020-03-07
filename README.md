@@ -61,6 +61,17 @@ Azad et. all [Proposed Method (Baseline)](https://github.com/rezazad68/fewshot-s
 Azad et. all [Proposed Method (Baseline + DoG)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 78.71%
 Azad et. all [Proposed Method (Baseline + DoG + BConvLSTM)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| **80.83%**
 
+##### Table 2: Results  of  1-way  5-shot segmentation  on  the  FSS-1000 data set  employing  the  mIoU  metric.
+
+Methods | Year |mIoU 
+:------------ | :-------------:|:----:
+Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |73.02%
+Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |74.27%
+Wei et. all     [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |80.12%
+Hendryx et. all [FOMAML+ regularization ](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |80.60%
+Hendryx et. all [FOMAML+ regularization ](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |82.19%
+Azad et. all [Proposed Method (Baseline + DoG + BConvLSTM) non-parametric fusion](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 81.65%
+Azad et. all [Proposed Method (Baseline + DoG + BConvLSTM) parametric fusion](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 83.36%
 
 #### Visual Segmentation result on FSS-1000
 Sample of 1-shot segmentation result on the FSS-1000 dataset 
