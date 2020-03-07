@@ -77,6 +77,23 @@ Azad et. all [Proposed Method (Baseline + DoG + BConvLSTM) parametric fusion](ht
 Sample of 1-shot segmentation result on the FSS-1000 dataset 
 ![FSS-1000 Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/fss1000%20result.jpg)
 
+</br>
+#### Task 2: Pascal 5i Dataset for Few-Shot Segmentation
+In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using mean Intersection over Unition (mIoU) metric on both 1-shot and 5-shot settings.  
+
+##### Table 1: Results  of  1-way  1-shot & 5-shot segmentation  on  the  Pascal 5i data set  employing  the  mIoU  metric.
+
+Methods | Fold 1 | Fold 2 | Fold 3 | Fold 4| Mean | Fold 1| Fold 2 | Fold 3| Fold 4 | Mean| 1 to 5 shot Improvement
+:------------ | :-------------:|:----:| :-------------:|:----:| :-------------:|:----:| :-------------:|:----:|:----:|:----:|:----:
+Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
+Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
+Wei et. all     [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
+Hendryx et. all [FOMAML](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |75.19%
+Azad et. all [Proposed Method](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 74.19%
+
+#### Visual Segmentation result on Pascal 5i
+Sample of 1-shot segmentation result on the Pascal 5i dataset 
+![Pascal 5i Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/VOC_segmentation%20result%20.jpg)
 
 ### Acknowledgement 
 We warmly thanks Chez Alexandra group for supporting our research study while performing this research
