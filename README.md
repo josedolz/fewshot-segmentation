@@ -49,6 +49,7 @@ For evaluating the performance of the proposed method, Two challenging few-shot 
 #### Task 1: FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
 In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using mean Intersection over Unition (mIoU) metric on both 1-shot and 5-shot settings.  
 
+Table 1: Performance comparision 
 Methods | Year |mIoU 
 :------------ | :-------------:|:----:
 Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
