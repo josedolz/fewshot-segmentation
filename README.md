@@ -47,13 +47,15 @@ For training deep model ....
 For evaluating the performance of the proposed method, Two challenging few-shot semantic segmentaion data sets have been considered. In bellow, results of the proposed approach illustrated.
 </br>
 #### Task 1: FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
-In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using Mean Intersection Over Unition metric on both 1-shot and 5-shot settings.  
+In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using mean Intersection over Unition (mIoU) metric on both 1-shot and 5-shot settings.  
 
-Methods | Year |F1-scores 
+Methods | Year |mIoU 
 ------------ | -------------|----
-One-Shot Segmentation Result 
-Chen etc. all [Hybrid Features](https://link.springer.com/article/10.1007/s00138-014-0638-x)        |2014	  |1
-Azad et. all [Proposed Method](https://github.com/rezazad68/LSTM-U-net/edit/master/README.md)	  |2019 	| **0.8222**
+[OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
+[co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
+
+
+Azad et. all [Proposed Method](.)	  |2020 	| **80.83%**
 
 #### Visual Segmentation result on FSS-1000
 Sample of 1-shot segmentation result on the FSS-1000 dataset 
