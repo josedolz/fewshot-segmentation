@@ -17,7 +17,16 @@ This repository contains the code for deep auto-encoder-decoder network for few-
 will be update soon
 
 
+## Prerequisties and Run
+This code has been implemented in python language using Keras libarary with tensorflow backend and tested in ubuntu OS, though should be compatible with related environment. following Environement and Library needed to run the code:
 
+- Python 3
+- Keras version 2.2.0
+- tensorflow backend version 1.13.1
+
+
+## Run Demo
+For training deep model ....
 
 
 
@@ -36,7 +45,8 @@ will be update soon
 
 
 
-
+### Acknowledgement 
+We warmly thanks Chez Alexandra group for supporting our research study while performing this research
 
 ### Query
 All implementation done by Reza Azad. For any query please contact us for more information.
