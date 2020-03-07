@@ -53,7 +53,12 @@ Methods | Year |mIoU
 ------------ | -------------|----
 [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
 [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
-[Proposed Method](https://openreview.net/pdf?id=SkMjFKJwG)	  |2020 	| **80.83%**
+[FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
+[FOMAML](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |75.19%
+[Proposed Method (Baseline)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 74.19%
+[Proposed Method (Baseline + DoG)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 78.71%
+[Proposed Method (Baseline + DoG + BConvLSTM)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| **80.83%**
+
 
 #### Visual Segmentation result on FSS-1000
 Sample of 1-shot segmentation result on the FSS-1000 dataset 
