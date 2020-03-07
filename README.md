@@ -51,8 +51,7 @@ In order to compare the proposed method with state of the art appraoches on  few
 
 Methods | Year |F1-scores 
 ------------ | -------------|----
-| One-Shot Segmentation Result |
------------- | -------------|----
+One-Shot Segmentation Result 
 Chen etc. all [Hybrid Features](https://link.springer.com/article/10.1007/s00138-014-0638-x)        |2014	  |1
 Azad et. all [Proposed Method](https://github.com/rezazad68/LSTM-U-net/edit/master/README.md)	  |2019 	| **0.8222**
 
