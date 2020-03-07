@@ -43,6 +43,10 @@ For training deep model ....
 ### Structure of the Proposed Scale Space encoder for reducing texture bias effect
 ![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure2.png)
 
+### Sample of Weak Annotation (Bounding Box) Generated for FSS-1000 Data set [Download link](https://github.com/rezazad68/fewshot-segmentation/raw/master/FSS-1000%20Bounding%20Box%20Annotation.zip)
+![Bounding Box annotation for FSS-1000](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20Annotation%20samples%20for%20FSS1000.jpg)
+
+
 ## Results
 For evaluating the performance of the proposed method, Two challenging few-shot semantic segmentaion data sets have been considered. In bellow, results of the proposed approach illustrated.
 </br>
