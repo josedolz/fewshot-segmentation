@@ -43,6 +43,20 @@ For training deep model ....
 ### Structure of the Proposed Scale Space encoder for reducing texture bias effect
 ![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure2.png)
 
+## Results
+For evaluating the performance of the proposed method, Two challenging few-shot semantic segmentaion data sets have been considered. In bellow, results of the proposed approach illustrated.
+</br>
+#### Task 1: FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation
+In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using Mean Intersection Over Unition metric on both 1-shot and 5-shot settings.  
+
+Methods | Year |F1-scores 
+------------ | -------------|----
+Chen etc. all [Hybrid Features](https://link.springer.com/article/10.1007/s00138-014-0638-x)        |2014	  |1
+Azad et. all [Proposed Method](https://github.com/rezazad68/LSTM-U-net/edit/master/README.md)	  |2019 	| **0.8222**
+
+#### Visual Segmentation result on FSS-1000
+Sample of 1-shot segmentation result on the FSS-1000 dataset 
+![FSS-1000 Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/fss1000%20result.jpg)
 
 
 ### Acknowledgement 
