@@ -51,13 +51,13 @@ In order to compare the proposed method with state of the art appraoches on  few
 
 Methods | Year |mIoU 
 :------------ | :-------------:|:----:
-Azad et. all[OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
-Azad et. all[co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
-Azad et. all[FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
-Azad et. all[FOMAML](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |75.19%
-Azad et. all[Proposed Method (Baseline)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 74.19%
-Azad et. all[Proposed Method (Baseline + DoG)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 78.71%
-Azad et. all[Proposed Method (Baseline + DoG + BConvLSTM)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| **80.83%**
+Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
+Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
+Wei et. all  [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
+Wei et. all  [FOMAML](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |75.19%
+Azad et. all [Proposed Method (Baseline)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 74.19%
+Azad et. all [Proposed Method (Baseline + DoG)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 78.71%
+Azad et. all [Proposed Method (Baseline + DoG + BConvLSTM)](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| **80.83%**
 
 
 #### Visual Segmentation result on FSS-1000
