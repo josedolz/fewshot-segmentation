@@ -50,7 +50,7 @@ For evaluating the performance of the proposed method, Two challenging few-shot 
 In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using mean Intersection over Unition (mIoU) metric on both 1-shot and 5-shot settings.  
 
 Methods | Year |mIoU 
-:------------: | -------------|----
+:------------ | :-------------:|:----:
 [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
 [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
 [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
