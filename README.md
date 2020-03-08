@@ -90,8 +90,10 @@ In order to compare the proposed method with state of the art appraoches on  few
 Methods | Fold 1 | Fold 2 | Fold 3 | Fold 4| Mean | Fold 1| Fold 2 | Fold 3| Fold 4 | Mean| 1 to 5 shot Improvement
 :------------ | :-------------:|:----:| :-------------:|:----:| :-------------:|:----:| :-------------:|:----:|:----:|:----:|:----:
 Wei et. all     [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
-Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
-Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)|33.6|55.3|40.9|33.5|40.8|35.9|58.1|42.7|39.1|43.9|3.1
+Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)|36.7|50.6|44.9|32.4|41.1|37.5|50.0|44.1|33.9|41.4|0.3
+
+
 
 Rakelly et. all [SG-One](https://arxiv.org/pdf/1810.09091.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
 Rakelly et. all [AMP](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
