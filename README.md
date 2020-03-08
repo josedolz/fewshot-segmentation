@@ -25,7 +25,7 @@ This code has been implemented in python language using Keras libarary with tens
 
 ## Run Demo
 1- The implementation code is availabel in Source Code folder.
-1- Download the FSS1000 dataset from [this](https://challenge.kitware.com/#phase/5abcb19a56357d0139260e53) link and extract the dataset.</br>
+1- Download the FSS1000 dataset from [this](https://drive.google.com/open?id=16TgqOeI_0P41Eh3jWQlxlRXG9KIqtMgI) link and extract the dataset.</br>
 2- Run `Train_DOGLSTM.py` for training Scale Space Encoder model using k-shot episodic training. The model will be train for 50 epochs and for each epoch it will itterate 1000 episodes to train the model. The model will saves validation performance history and the best weights for the valiation set. It also will report the MIOU performance on the test set. The model by default will use VGG backbone with combining Block 3,4 and 5 but other combination can be call in creatign the model. It is also possible to use any backbone like Resnet, Inception and etc.... </br>
 3- Run `Train_weak.py` for training Scale Space Encoder model using k-shot episodic training and evaluatign on the weak annotation test set. This code will use weaklly annotated bouning box as a label for the support set on test time.
 
