@@ -89,11 +89,27 @@ In order to compare the proposed method with state of the art appraoches on  few
 
 Methods | Fold 1 | Fold 2 | Fold 3 | Fold 4| Mean | Fold 1| Fold 2 | Fold 3| Fold 4 | Mean| 1 to 5 shot Improvement
 :------------ | :-------------:|:----:| :-------------:|:----:| :-------------:|:----:| :-------------:|:----:|:----:|:----:|:----:
-Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)        |2017	  |70.29%
-Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)        |2018	  |71.94%
-Wei et. all     [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)        |2019	  |73.47%
-Hendryx et. all [FOMAML](https://arxiv.org/pdf/1912.06290.pdf)        |2020	  |75.19%
-Azad et. all [Proposed Method](https://github.com/rezazad68/fewshot-segmentation)	  |2020 	| 74.19%
+Wei et. all     [FSS-1000](https://arxiv.org/pdf/1907.12347.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Shaban et. all  [OSLSM](https://arxiv.org/pdf/1709.03410.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [co-FCN](https://openreview.net/pdf?id=SkMjFKJwG)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+
+Rakelly et. all [SG-One](https://arxiv.org/pdf/1810.09091.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [AMP](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [PANet](https://arxiv.org/pdf/1908.06391.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [Feat Weight](https://arxiv.org/pdf/1909.13140.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [Meta-Seg](https://ieeexplore.ieee.org/document/8901116)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [MDL ](https://ieeexplore.ieee.org/abstract/document/8754235)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [OSAdv](https://www.sciencedirect.com/science/article/pii/S0020025520300189)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+
+
+
+Rakelly et. all [AMCG](https://www.aaai.org/ojs/index.php/AAAI/article/view/4860/4733)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [CANet](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [LTM ](https://arxiv.org/pdf/1910.05886.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+Rakelly et. all [PGNet](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.pdf)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
+
+
+Azad et. all [Proposed Method](https://github.com/rezazad68/fewshot-segmentation)|-|-|-|-|-|37.4|60.9|46.6|42.2|56.8|-
 
 #### Visual Segmentation result on Pascal 5i
 Sample of 1-shot segmentation result on the Pascal 5i dataset 
