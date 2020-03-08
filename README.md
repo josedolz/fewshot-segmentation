@@ -1,5 +1,3 @@
-# fewshot-segmentation
-
 # [On the Texture Bias for Few-Shot CNN Segmentation]()
 
 This repository contains the code for deep auto-encoder-decoder network for few-shot semantic segmentation with state of the art results on FSS 1000 class dataset and Pascal 5i. This method embeds different ferequncy information in the CNN representation to overcome with the texture bias and applies bidirectional convolutional LSTM layers to perform non-liner parametric k shot setting for few-shot semantic segmentation. If this code helps with your research please consider citing the following paper:
@@ -110,8 +108,14 @@ Azad et. all [Proposed Method](https://github.com/rezazad68/fewshot-segmentation
 Sample of 1-shot segmentation result on the Pascal 5i dataset 
 ![Pascal 5i Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/VOC_segmentation%20result%20.jpg)
 
-### Acknowledgement 
-We warmly thanks Chez Alexandra group for supporting our research study while performing this research
+### Extra results on FSS1000 data set + Result with Weak Annotation (Bounding Box)
+Extra Sample of 1-shot segmentation result on FSS1000 data
+![FSS1000 Result 2](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20result%202.jpg)
+Sample of low-level 1-shot segmentation result on FSS1000 data
+![FSS1000 Result 3](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
+Samples of 1-shot segmentation result on FSS1000 data using weak annotation (bounding box)
+![FSS1000 Result 4](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
+![FSS1000 Result 5](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
 
 ### Query
 All implementation done by Reza Azad. For any query please contact us for more information.
