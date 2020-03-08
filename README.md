@@ -37,7 +37,7 @@ Notice: `parser_utils.py` can be used for hyper parameter setting and defining d
 ### Structure of the Proposed Scale Space encoder for reducing texture bias effect
 ![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure2.png)
 
-### Sample of Weak Annotation (Bounding Box) Generated for FSS-1000 Data set [Download link](https://github.com/rezazad68/fewshot-segmentation/raw/master/FSS-1000%20Bounding%20Box%20Annotation.zip)
+### Visual representation of 21 classes from 1000-class dataset with their masks and generated bounding box [Download link](https://github.com/rezazad68/fewshot-segmentation/raw/master/FSS-1000%20Bounding%20Box%20Annotation.zip)
 ![Bounding Box annotation for FSS-1000](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20Annotation%20samples%20for%20FSS1000.jpg)
 
 
@@ -105,12 +105,12 @@ Azad et. all [Proposed Method](https://github.com/rezazad68/fewshot-segmentation
 Sample of 1-shot segmentation result on the Pascal 5i dataset 
 ![Pascal 5i Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/VOC_segmentation%20result%20.jpg)
 
-### Extra results on FSS1000 data set + Result with Weak Annotation (Bounding Box)
-#### Extra Sample of 1-shot segmentation result on FSS1000 data
+### Extra results
+#### Visual representation of proposed method performing segmentation on 1000 class dataset.
 ![FSS1000 Result 2](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20result%202.jpg)
-#### Sample of low-level 1-shot segmentation result on FSS1000 data
+#### Visual demonstration of the proposed method limitation in segmenting the object of interest
 ![FSS1000 Result 3](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
-#### Samples of 1-shot segmentation result on FSS1000 data using weak annotation (bounding box)
+#### Visual representation of proposed method performing segmentation on 1000 class dataset with weak annotation (bounding box)
 ![FSS1000 Result 4](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20annotation%20result%201.jpg)
 ![FSS1000 Result 5](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20Weak%20result%202.jpg)
 
