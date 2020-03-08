@@ -109,11 +109,11 @@ Sample of 1-shot segmentation result on the Pascal 5i dataset
 ![Pascal 5i Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/VOC_segmentation%20result%20.jpg)
 
 ### Extra results on FSS1000 data set + Result with Weak Annotation (Bounding Box)
-#### *Extra Sample of 1-shot segmentation result on FSS1000 data*
+#### Extra Sample of 1-shot segmentation result on FSS1000 data
 ![FSS1000 Result 2](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20result%202.jpg)
-Sample of low-level 1-shot segmentation result on FSS1000 data
+#### Sample of low-level 1-shot segmentation result on FSS1000 data
 ![FSS1000 Result 3](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
-Samples of 1-shot segmentation result on FSS1000 data using weak annotation (bounding box)
+#### Samples of 1-shot segmentation result on FSS1000 data using weak annotation (bounding box)
 ![FSS1000 Result 4](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
 ![FSS1000 Result 5](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
 
