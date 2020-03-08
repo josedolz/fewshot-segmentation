@@ -77,7 +77,9 @@ Sample of 1-shot segmentation result on the FSS-1000 dataset
 ![FSS-1000 Result 1](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/fss1000%20result.jpg)
 
 </br>
+
 #### Task 2: Pascal 5i Dataset for Few-Shot Segmentation
+
 In order to compare the proposed method with state of the art appraoches on  few-shot semantic segmentation, we reported our result using mean Intersection over Unition (mIoU) metric on both 1-shot and 5-shot settings.  
 
 ##### Table 1: Results  of  1-way  1-shot & 5-shot segmentation  on  the  Pascal 5i data set  employing  the  mIoU  metric.
