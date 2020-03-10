@@ -4,6 +4,7 @@ This repository contains the code for deep auto-encoder-decoder network for few-
 </br>
 > [R. Azad](https://scholar.google.com/citations?hl=en&user=Qb5ildMAAAAJ&view_op=list_works&sortby=pubdate),
 [Abdur. R. Fayjie](https://sites.google.com/site/abdurrfayjie/),
+[Claude Kauffman](https://radiologie.umontreal.ca/departement/les-professeurs/profil/kauffmann-claude/in15322/),
 [Ismail Ben Ayed](https://scholar.google.com/citations?hl=en&user=29vyUccAAAAJ&view_op=list_works&sortby=pubdate),
 [Marco Pedersoli](https://scholar.google.com/citations?user=aVfyPAoAAAAJ&hl=en) and
 [Jose Dolz](https://scholar.google.ca/citations?user=yHQIFFMAAAAJ&hl=en) 
